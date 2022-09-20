@@ -12,7 +12,9 @@
 
 ## Activity 4
 Teammate's repo: https://github.com/peterwang06/ECE444-F2022-Lab1
+
 My teammate's commit:
 <img width="719" alt="Screen Shot 2022-09-19 at 11 15 49 PM" src="https://user-images.githubusercontent.com/22310955/191159523-b7d30ec2-18fa-4b31-b4b9-2a559a474146.png">
+
 My commit on teammate's repo:
 <img width="1199" alt="Screen Shot 2022-09-19 at 11 17 22 PM" src="https://user-images.githubusercontent.com/22310955/191159717-8a495456-6602-435e-8153-955374db262b.png">
