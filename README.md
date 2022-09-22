@@ -24,7 +24,10 @@ My commit on teammate's repo:
 ## Activity 5
 <img width="584" alt="Screen Shot 2022-09-21 at 8 20 36 PM" src="https://user-images.githubusercontent.com/22310955/191632162-3fc84b9e-bcab-41ac-99be-fdfadd855797.png">
 <img width="543" alt="Screen Shot 2022-09-21 at 8 24 01 PM" src="https://user-images.githubusercontent.com/22310955/191632484-8afc1e43-d582-4863-a8ff-f806828a8ac3.png">
-<img width="506" alt="Screen Shot 2022-09-21 at 8 26 17 PM" src="https://user-images.githubusercontent.com/22310955/191632670-87272731-382c-4845-aa0a-f96be0cb1c8.png">
+
+
+
+
 <img width="544" alt="Screen Shot 2022-09-21 at 8 27 30 PM" src="https://user-images.githubusercontent.com/22310955/191632773-86d10ba6-3042-4052-96ce-bddbfec2683d.png">
 <img width="472" alt="Screen Shot 2022-09-21 at 8 41 51 PM" src="https://user-images.githubusercontent.com/22310955/191634375-591c1841-479d-4634-bec8-247a7e31e782.png">
 
