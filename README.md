@@ -25,7 +25,7 @@ My commit on teammate's repo:
 <img width="584" alt="Screen Shot 2022-09-21 at 8 20 36 PM" src="https://user-images.githubusercontent.com/22310955/191632162-3fc84b9e-bcab-41ac-99be-fdfadd855797.png">
 <img width="543" alt="Screen Shot 2022-09-21 at 8 24 01 PM" src="https://user-images.githubusercontent.com/22310955/191632484-8afc1e43-d582-4863-a8ff-f806828a8ac3.png">
 
-
+<img width="490" alt="Screen Shot 2022-09-21 at 8 51 32 PM" src="https://user-images.githubusercontent.com/22310955/191634858-da3c640e-52cb-406c-a21e-68ae3aab46ff.png">
 
 
 <img width="544" alt="Screen Shot 2022-09-21 at 8 27 30 PM" src="https://user-images.githubusercontent.com/22310955/191632773-86d10ba6-3042-4052-96ce-bddbfec2683d.png">
