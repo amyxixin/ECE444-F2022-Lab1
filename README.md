@@ -35,3 +35,7 @@ Git Log of Develop branch:
 
 <img width="563" alt="Screen Shot 2022-09-21 at 8 44 27 PM" src="https://user-images.githubusercontent.com/22310955/191634268-d998625f-5f2c-46d9-a576-7fd4060218c3.png">
 
+## Activity 6
+https://github.com/amyxixin/ECE444-F2022-EP
+
+## Activity 7
