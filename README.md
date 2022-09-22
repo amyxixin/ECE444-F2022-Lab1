@@ -20,3 +20,16 @@ My teammate's commit:
 My commit on teammate's repo:
 
 <img width="1199" alt="Screen Shot 2022-09-19 at 11 17 22 PM" src="https://user-images.githubusercontent.com/22310955/191159717-8a495456-6602-435e-8153-955374db262b.png">
+
+## Activity 5
+<img width="584" alt="Screen Shot 2022-09-21 at 8 20 36 PM" src="https://user-images.githubusercontent.com/22310955/191632162-3fc84b9e-bcab-41ac-99be-fdfadd855797.png">
+<img width="543" alt="Screen Shot 2022-09-21 at 8 24 01 PM" src="https://user-images.githubusercontent.com/22310955/191632484-8afc1e43-d582-4863-a8ff-f806828a8ac3.png">
+<img width="506" alt="Screen Shot 2022-09-21 at 8 26 17 PM" src="https://user-images.githubusercontent.com/22310955/191632670-87272731-382c-4845-aa0a-f96be0c<img width="472" alt="Screen Shot 2022-09-21 at 8 41 51 PM" src="https://user-images.githubusercontent.com/22310955/191634093-4eec7c33-0538-4406-8f09-9451df0be170.png">
+2b1c8.png">
+<img width="544" alt="Screen Shot 2022-09-21 at 8 27 30 PM" src="https://user-images.githubusercontent.com/22310955/191632773-86d10ba6-3042-4052-96ce-bddbfec2683d.png">
+<img width="472" alt="Screen Shot 2022-09-21 at 8 41 51 PM" src="https://user-images.githubusercontent.com/22310955/191634375-591c1841-479d-4634-bec8-247a7e31e782.png">
+
+Git Log of Develop branch:
+
+<img width="563" alt="Screen Shot 2022-09-21 at 8 44 27 PM" src="https://user-images.githubusercontent.com/22310955/191634268-d998625f-5f2c-46d9-a576-7fd4060218c3.png">
+
