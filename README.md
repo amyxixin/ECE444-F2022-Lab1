@@ -42,3 +42,7 @@ https://github.com/amyxixin/ECE444-F2022-EP
 
 <img width="1459" alt="Screen Shot 2022-09-21 at 9 59 29 PM" src="https://user-images.githubusercontent.com/22310955/191641744-3565705a-73ee-4232-90c5-680d426423ee.png">
 <img width="566" alt="Screen Shot 2022-09-21 at 9 47 26 PM" src="https://user-images.githubusercontent.com/22310955/191641796-5af24fa8-99fc-4090-926a-74bfd9cfb337.png">
+
+## Activity 8
+<img width="1467" alt="Screen Shot 2022-09-21 at 10 32 11 PM" src="https://user-images.githubusercontent.com/22310955/191645395-6da1a7fc-6db5-49a4-89b8-5ab06696a11d.png">
+<img width="450" alt="Screen Shot 2022-09-21 at 10 34 19 PM" src="https://user-images.githubusercontent.com/22310955/191645571-acb1803c-8624-4e83-b734-91cde5b912ea.png">
